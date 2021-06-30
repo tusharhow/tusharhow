@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar R Ahmed!</h1>
 
+**Follow me on social media** </br>
+</br>
 <a href="https://twitter.com/tusharhow">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" />
 </a>
