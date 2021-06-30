@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tushar R Ahmed!</h1>
 
 <a href="https://twitter.com/tusharhow">
-  <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" />
 </a>
 <a href="https://linkedin.com/in/tusharhow">
-  <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tushar's Linkdein" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />
 </a>
 <a href="https://www.facebook.com/tusharhow/">
-  <img align="left" alt="Tushar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Tushar's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" />
 </a>
 <br/>
 <br/>
@@ -15,17 +15,18 @@
 
 
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @tusharhow](https://twitter.com/tusharhow)
+- 📫 How to reach me: Just Email <a href="mailto:webmaster@example.com">Tusharsoftdev@gmail.com</a>
 
 
 **Languages and Tools:**  
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/65107679/90792959-f2375480-e32c-11ea-9981-28a1e79ef08f.png"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/65107679/90793334-6f62c980-e32d-11ea-82e1-5ada899d078b.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/65107679/92309901-3007c000-ef5e-11ea-8d2e-6c0fe75dae13.png"></code>   
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/65107679/90792959-f2375480-e32c-11ea-9981-28a1e79ef08f.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/65107679/90793334-6f62c980-e32d-11ea-82e1-5ada899d078b.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"></code>   
+<code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
 
 
 <a href="https://github.com/tusharhow">
