@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar R Ahmed!</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharhow&label=Views&color=blue" alt="tusharhow"/> </p>
+
+
 **Follow me on social media** </br>
 </br>
 <a href="https://twitter.com/tusharhow">
