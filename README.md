@@ -34,6 +34,10 @@
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/174/174881.png"></code>
 <code><img height="30" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"></code>   
 
+</br>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/tusharhow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&theme=light&hide_langs_below=1" />
