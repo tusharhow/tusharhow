@@ -12,7 +12,6 @@
 </a>
 <a href="https://www.facebook.com/tusharhow/">
   <img align="left" alt="Tushar's Facebook" width="29px" height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" />
->>>>>>> 1bb54cb9669d772cb9b51ab8e190a4859364e345
 </a>
 <br/>
 <br/>
