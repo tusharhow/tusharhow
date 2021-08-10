@@ -5,6 +5,7 @@
 **Follow me on social media** </br>
 </br>
 <a href="https://twitter.com/tusharhow">
+<<<<<<< HEAD
 <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" />
 </a>
 <a href="https://linkedin.com/in/tusharhow">
@@ -12,6 +13,15 @@
 </a>
 <a href="https://www.facebook.com/tusharhow/">
 <img align="left" alt="Tushar's Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" />
+=======
+  <img align="left" alt="Tushar's Twitter" width="29px" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" />
+</a>
+<a href="https://linkedin.com/in/tusharhow">
+  <img align="left" alt="Tushar's Linkdein" width="29px" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />
+</a>
+<a href="https://www.facebook.com/tusharhow/">
+  <img align="left" alt="Tushar's Facebook" width="29px" height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" />
+>>>>>>> 1bb54cb9669d772cb9b51ab8e190a4859364e345
 </a>
 <br/>
 <br/>
@@ -32,6 +42,11 @@
 
 # Blog posts
 
+<<<<<<< HEAD
+=======
+</br>
+# Blog posts
+>>>>>>> 1bb54cb9669d772cb9b51ab8e190a4859364e345
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
