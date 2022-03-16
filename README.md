@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Mahmud!</h1>
 
+<code><img src="https://user-images.githubusercontent.com/65107679/158521636-0d8a5954-65f3-4c79-9a02-24d6d3c1f2fc.png"></code>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharhow&label=Views&color=blue" alt="tusharhow"/> </p>
 
 **Follow me on social media** </br>
@@ -12,15 +14,18 @@
 </a>
 <a href="https://www.facebook.com/tusharhow/">
   <img align="left" alt="Tushar's Facebook" width="29px" height="30" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" />
+  <a href="https://youtube.com/c/flutterbucket">
+  <img align="left" alt="Flutter Bucket" width="40px" height="30px" src="https://www.transparentpng.com/download/youtube-logo/youtube-logo-background-3.png" />
 </a>
 <br/>
 <br/>
-
--   💬 Ask me about Flutter or any tech related stuff.
+<h1 align="left">🙋‍♂️ About Me</h1>
+-   💬 Ask me about Flutter or any tech related stuff.<br/>
+-   👯 I’m looking to collaborate on OpenSource Projects<br/>
 -   📫 How to reach me: Just Email <a href="mailto:webmaster@example.com">Tusharsoftdev@gmail.com</a>
-
-**Languages and Tools:**
-
+<br/><br/>
+🚀 Languages and Tools:
+<br/><br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/65107679/90792959-f2375480-e32c-11ea-9981-28a1e79ef08f.png"></code>
@@ -29,7 +34,7 @@
 <code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/239/7/png-clipart-gopher-docker-computer-programming-clojure-others-snout-computer-programming.png"></code>
 <code><img height="30" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"></code>
-
+<br/><br/>
 <a href="https://github.com/tusharhow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&theme=light&hide_langs_below=1" />
 </a>
