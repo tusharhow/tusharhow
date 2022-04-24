@@ -17,11 +17,14 @@
   <a href="https://youtube.com/c/flutterbucket">
   <img align="left" alt="Flutter Bucket" width="40px" height="30px" src="https://www.transparentpng.com/download/youtube-logo/youtube-logo-background-3.png" />
 </a>
+    <a href="https://medium.com/@tusharhow">
+  <img align="left" alt="Flutter Bucket" width="110px" height="30px" src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" />
+</a>
 <br/>
 <br/>
 <h1 align="left">🙋‍♂️ About Me</h1>
 -   💬 Ask me about Flutter or any tech related stuff.<br/>
--   👯 I’m looking to collaborate on OpenSource Projects<br/>
+-   👯 I’m looking to collaborate on Open Source Projects<br/>
 -   📫 How to reach me: Just Email <a href="mailto:webmaster@example.com">Tusharsoftdev@gmail.com</a>
 <br/><br/>
 🚀 Languages and Tools:
@@ -32,6 +35,7 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/65107679/90793334-6f62c980-e32d-11ea-82e1-5ada899d078b.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
+  <code><img height="35" src="https://user-images.githubusercontent.com/65107679/164997736-84686259-f1ba-454d-a65e-919045be9e6a.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/239/7/png-clipart-gopher-docker-computer-programming-clojure-others-snout-computer-programming.png"></code>
 <code><img height="30" src="https://webimages.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png?auto=format%2Ccompress"></code>
 <br/><br/>
