@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharhow&label=Views&color=blue" alt="tusharhow"/> </p>
 
 **Follow me on social media** </br>
-</br>
+<!-- </br> -->
 <a href="https://twitter.com/tusharhow">
   <img align="left" alt="Tushar's Twitter" width="29px" height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" />
 </a>
