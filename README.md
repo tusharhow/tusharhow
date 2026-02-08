@@ -26,11 +26,11 @@ Software Developer | Android-iOS-Flutter-Jetpack Compose
   
 <p align="center" >
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/tusharhow) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=tusharhow&theme=tokyonight&hide_border=true&background=1F222E" />
+<img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=tusharhow&theme=tokyonight&hide_border=true&background=1F222E" />
   
 </p>
   
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> These are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 </details>
  
